@@ -6,7 +6,6 @@
 node_modules
 .pnp
 .pnp.js
-**/.pnpm_store
 
 # debug
 npm-debug.log*
